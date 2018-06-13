@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Context>
+<!--<Context reloadable="true" crossContext="true">-->
+<Context crossContext="true">
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+   <!-- <Resource
+            name="jdbc/wb7"
+            factory="com.alibaba.druid.pool.DruidDataSourceFactory"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="org.h2.Driver"
+            url="jdbc:h2:~/.wb/wb7"
+            username="sa"
+            password="sa"
+            maxActive="10"
+            maxWait="10000"
+            removeabandoned="true"
+            removeabandonedtimeout="60"
+            logabandoned="false"
+            filters="stat"/>-->
+</Context>
